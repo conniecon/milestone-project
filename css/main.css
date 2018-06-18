@@ -1,0 +1,219 @@
+/***** BASE STYLES *****/
+
+body {
+	color: #a64d0a;
+	font-family: 'Source Sans Pro', sans-serif;
+}	
+
+
+#about, #skills, #work, #contact {
+	height: 600px;
+}
+
+
+/***** GRID *****/
+
+.full-width {
+	margin: 0 auto;
+	width: 1200px;
+}	
+
+
+.half-width {
+	float: left;
+	width: 600px;
+}
+
+
+.third-width {
+	float: left;
+	width: 400px;
+}
+
+
+/***** HEADER *****/
+
+header {
+	background: url('../img/ice_cream_cone_2.jpg');
+	background-size: cover;
+	height: 800px;
+}
+
+
+header h1 {
+	font-size: 35px;
+	padding: 50px 20px;
+}
+
+
+span {
+	font-family: 'Pacifico', cursive;
+	font-size: 45px;
+} 
+
+
+nav {
+	float: right;
+	padding: 75px 40px;
+} 
+
+
+nav ul li { 
+	display: inline-block;
+ } 
+
+
+ nav ul li a {
+ 	color: #808080;
+ 	font-size: 30px;
+ 	padding-left: 30px;
+ 	text-transform: capitalize;
+ 	text-decoration: none;
+ } 
+
+
+/***** ABOUT *****/
+
+#about .full-width {
+	padding: 80px 0;
+}
+
+#about h2 {
+	font-family:'Raleway', sans-serif;
+	font-size: 40px;
+	padding-left: 30px;
+}
+
+#about p {
+	color: grey;
+	font-size: 30px;
+	padding-left: 30px; 
+	padding-right: 60px;
+}
+
+
+#about img {
+	height: 400px;
+	padding-left: 100px;
+	width: 400px;
+}
+
+
+/***** SKILLS *****/
+
+#skills {
+	background-color: #d9d9d9;
+	text-align: center; 
+}
+
+#skills .full-width {
+	padding: 115px 0;
+
+}
+
+#skills h2 {
+	color: #808080;
+	font-family:'Raleway', sans-serif;
+	font-size: 40px;
+	padding-left: 30px;
+}
+
+
+#skills i {
+	color: #808080;
+	font-size: 75px;
+	padding-bottom: 30px;
+}
+
+
+#skills h3 {
+	font-size: 25px;
+	color: #808080;
+}
+
+
+#skills p {
+	color: #808080;
+	font-size: 20px;
+}
+
+
+/***** WORK *****/
+
+#work {
+	background-color: #ffffff;
+	text-align: center;
+}
+
+
+#work .full-width {
+	padding: 115px 0;
+}
+
+#work h2 {
+	font-family:'Raleway', sans-serif;
+	font-size: 40px;
+	margin-top: 0px;
+	padding-left: 30px;
+}
+
+
+#work img {
+	height: 200px;
+	padding-bottom: 30px;
+	width: 200px;
+}
+
+
+#work h3 {
+	color: #808080;
+	font-size: 25px;
+}
+
+#work p {
+	color: #808080;
+}
+
+
+/***** CONTACT *****/
+
+#contact {
+	background-color: #d2f2fa;
+	padding: 50px 20px;
+}
+
+
+#contact h3 {
+	color: #808080;
+	font-size: 25px;
+}
+
+
+#contact h4 {
+	color: #808080;
+	font-size: 20px;
+}
+
+
+#contact p {
+	color: #808080;
+	font-size: 15px;
+}
+
+
+#contact i {
+	color: #808080;
+	font-size: 50px;
+	padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
